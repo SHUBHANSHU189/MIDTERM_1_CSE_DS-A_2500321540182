@@ -1,0 +1,50 @@
+[
+    {
+        "id": 101,
+        "name": "Laptop",
+        "price": 55000,
+        "category": "Electronics"
+    },
+    {
+        "id": 102,
+        "name": "Smartphone",
+        "price": 25000,
+        "category": "Electronics"
+    },
+    {
+        "id": 103,
+        "name": "Wireless Mouse",
+        "price": 799,
+        "category": "Accessories"
+    },
+    {
+        "id": 104,
+        "name": "Keyboard",
+        "price": 1499,
+        "category": "Accessories"
+    },
+    {
+        "id": 105,
+        "name": "Office Chair",
+        "price": 6500,
+        "category": "Furniture"
+    },
+    {
+        "id": 106,
+        "name": "Study Table",
+        "price": 4500,
+        "category": "Furniture"
+    },
+    {
+        "id": 107,
+        "name": "Headphones",
+        "price": 1999,
+        "category": "Electronics"
+    },
+    {
+        "id": 108,
+        "name": "Water Bottle",
+        "price": 499,
+        "category": "Home Appliances"
+    }
+]
